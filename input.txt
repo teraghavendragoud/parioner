@@ -1,0 +1,5 @@
+1201,terg,35,Male,45000
+1202,tetrg,30,Female,40000
+1203,tesrg,2,Female,50000
+1204,goud,30,Male,70000
+1205,terk,60,Male,90000

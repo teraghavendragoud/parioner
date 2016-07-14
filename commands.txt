@@ -1,0 +1,21 @@
+ 
+hadoop jar Partitioner.jar hadoop.PartitionerExample input_dir output_dir1900011
+
+
+
+javac -classpath hadoop-core-1.2.1.jar -d partiner PartitionerExample.java
+
+
+jar -cvf partioner.jar -C partioner/ .
+
+
+
+
+javac -classpath hadoop-core-1.2.1.jar -d genFiles PartitionerExample.java
+ 
+ 
+jar -cvf Partioner.jar -C genFiles/ .
+ 
+
+ 
+hadoop jar Partioner.jar partitionerexample.PartitionerExample input_dir output_dir19000
